@@ -1,0 +1,25 @@
+body{
+    background-color: #461a5a;
+}
+
+.content{
+    margin-top: 130px;
+    height: 300px;
+    
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    
+}
+.dis{
+    background-color:  #461a5a;
+    height: 50px;
+}
+
+.delreset{
+    background-color: hsl(228, 45%, 44%);
+}
+.cal{
+    background-color: #5c1b7a;
+    padding: 50px;
+}

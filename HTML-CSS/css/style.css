@@ -1,0 +1,38 @@
+h4 {
+    color: orange;
+    text-align: center;
+    /*font-size: 40px;*/
+    border: 2px dashed;
+    width: 500px;
+  }
+
+  body {
+    background-color: rgb(179, 190, 158);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+  }
+
+  table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 80%;
+  }
+
+  td, th {
+    border: 1px solid blue;
+    padding: 15px;
+  }
+  /* th {
+    border: 1px solid blue;
+    padding: 15px;
+  } */
+
+  #last-heading {
+    font-size: 20px;
+    color: blue;
+  }
+
+  .unordered {
+    font-size: 20px;
+    color: blue;
+  }
